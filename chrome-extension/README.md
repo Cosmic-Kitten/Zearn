@@ -1,6 +1,6 @@
 # Zearn Chrome Extension
 
-A Chrome extension that adds a small dot to the bottom-right corner of a web page. Clicking the dot opens a timed hint overlay.
+A Chrome Extension that adds a small dot to the bottom-right corner of a web page. Clicking the dot opens a timed hint overlay.
 
 ## Behavior
 
